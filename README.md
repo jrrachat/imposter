@@ -1,4 +1,4 @@
-A copy of the party game imposter.
+My text-based interpretation of the party game imposter.
 ================
 
 This text-based multiplayer party game assigns secret words to players, 
